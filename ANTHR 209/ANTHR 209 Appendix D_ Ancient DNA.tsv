@@ -1,18 +1,18 @@
-A nucleic acid strand that terminates at the chemical group attached to the fifth carbon in the sugar-ring.	5 prime end
-A nucleic acid strand that terminates at the hydroxyl (-OH) chemical group attached to the third carbon in the sugar-ring.	3 prime end
-Each of two or more alternative forms of a gene that arise by mutation and are found at the same place on a chromosome.	Allele
-These are models which allow for inference of how genetic variants sampled from a population may have originated from a common ancestor	Coalescent methods
-The chemical process that results in the conversion of Cytosine to uracil, which results in Cytosine to Thymine conversions during sequencing.	Deamination
-A measure of how long two genomic sequences have been changing independently.	Divergence time
-A form of ancient DNA in which DNA originates from the specimen being examined.	Endogenous aDNA
-DNA that originates from sources outside of the specimen you are trying to sequence.	Exogenous DNA
-This is the process of exchange of DNA between two strands to produce new sequence arrangements.	Genetic recombination
-A set of genetic variants located on a single stretch of the genome. This unique combination of variants on a stretch of the genome can be used to differentiate groups that will have different combinations of variants.	Haplotype
-A measure of how many genes within a diploid genome are made up of more than one variant for a gene.	Heterozygosity
-These are genomic sequences which have been sequenced multiple times to ensure that the sequence produced is a true reflection of the genomic sequence, and reduce the likelihood that the sequence has sequencing errors as a result of the sequencing process.	High-coverage sequences
-DNA sequencing technologies developed in the early 21st century that are capable of sequencing many DNA molecules at a time.	High–throughput sequencing
-A measure of how many genes within a diploid genome are made up of more than the same variant for a gene.	Homozygosity
-Mating between two genetically differentiated groups (or species).	Hybridization
-This is the movement of genes from one species to the gene pool of another species through hybridization between the species and backcross into the parental population by hybrid offspring.	Introgressed genes
-These are changes that occur in the protein-coding region of the genome and result in a change in amino acid sequence of the protein being produced.	Nonsynonymous mutations
-Mutations that occur in the protein-coding region of the genome but do not result in a change in amino acid sequence of the protein being produced.	Synonymous mutations
+5 prime end	A nucleic acid strand that terminates at the chemical group attached to the fifth carbon in the sugar-ring.
+3 prime end	A nucleic acid strand that terminates at the hydroxyl (-OH) chemical group attached to the third carbon in the sugar-ring.
+Allele	Each of two or more alternative forms of a gene that arise by mutation and are found at the same place on a chromosome.
+Coalescent methods	These are models which allow for inference of how genetic variants sampled from a population may have originated from a common ancestor
+Deamination	The chemical process that results in the conversion of Cytosine to uracil, which results in Cytosine to Thymine conversions during sequencing.
+Divergence time	A measure of how long two genomic sequences have been changing independently.
+Endogenous aDNA	A form of ancient DNA in which DNA originates from the specimen being examined.
+Exogenous DNA	DNA that originates from sources outside of the specimen you are trying to sequence.
+Genetic recombination	This is the process of exchange of DNA between two strands to produce new sequence arrangements.
+Haplotype	A set of genetic variants located on a single stretch of the genome. This unique combination of variants on a stretch of the genome can be used to differentiate groups that will have different combinations of variants.
+Heterozygosity	A measure of how many genes within a diploid genome are made up of more than one variant for a gene.
+High-coverage sequences	These are genomic sequences which have been sequenced multiple times to ensure that the sequence produced is a true reflection of the genomic sequence, and reduce the likelihood that the sequence has sequencing errors as a result of the sequencing process.
+High–throughput sequencing	DNA sequencing technologies developed in the early 21st century that are capable of sequencing many DNA molecules at a time.
+Homozygosity	A measure of how many genes within a diploid genome are made up of more than the same variant for a gene.
+Hybridization	Mating between two genetically differentiated groups (or species).
+Introgressed genes	This is the movement of genes from one species to the gene pool of another species through hybridization between the species and backcross into the parental population by hybrid offspring.
+Nonsynonymous mutations	These are changes that occur in the protein-coding region of the genome and result in a change in amino acid sequence of the protein being produced.
+Synonymous mutations	Mutations that occur in the protein-coding region of the genome but do not result in a change in amino acid sequence of the protein being produced.
